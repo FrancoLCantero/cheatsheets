@@ -1,3 +1,5 @@
+[Volver a sección principal](https://github.com/FrancoLCantero/cheatsheets/tree/main)
+
 # **Apuntes de Git**
 
 ## **1. Introducción a Git**
@@ -163,15 +165,15 @@ Para fusionar cambios de una rama a otra:
 
 1. Cambia a la rama en la que quieres fusionar los cambios (por ejemplo, `main`):
 
-    ```bash
+```bash
 git checkout main
-    ```
+```
 
 2. Fusión:
 
-    ```bash
+```bash
 git merge nombre_de_la_rama
-    ```
+```
 
 ## **7. Deshacer Cambios**
 
@@ -226,6 +228,8 @@ Para listar los stashes guardados:
 ```bash
 git stash list
 ```
+
+[Volver a sección principal](https://github.com/FrancoLCantero/cheatsheets/tree/main)
 
 ---
 Last Edited on: 12/12/2024
